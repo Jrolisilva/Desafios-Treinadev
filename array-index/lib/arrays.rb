@@ -7,4 +7,3 @@ class Arrays
     resultado
   end
 end
-
